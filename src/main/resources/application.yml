@@ -17,6 +17,6 @@ spring:
         type: trace
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://localhost:5432/pedidodb
+    url: jdbc:postgresql://localhost:5433/pedidodb
     username: postgres
     password: root
